@@ -1,7 +1,5 @@
 # Azure Infrastructure Operations Project: Deploying a scalable IaaS web server in Azure
 
-# Azure Infrastructure Operations Project: Deploying a scalable IaaS web server in Azure
-
 ### Introduction
 
 This is the first project of the Azure DevOps nanodegree, where students must deploy a web server in Azure using terraform and packer.
